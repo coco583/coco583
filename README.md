@@ -1,16 +1,10 @@
-## Hi there 👋
+Hi there, Shenel Ayisa, a BSc. Business Inormation technology at Palm University College, Ghana.
 
-<!--
-**coco583/coco583** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc.  Business Inormation technologyat Palm University College, Ghana
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...shenelayisa2009@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Open to collaborating on projects
+
+📫 Reach me at: stsako@palm.edu.gh
+
+😄 Pronouns: She/her
